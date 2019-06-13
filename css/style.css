@@ -338,10 +338,10 @@ div.back {
   background-repeat: repeat-x;
 }
 .navbar-default {
-  background-image: -webkit-linear-gradient(top, #fff 0%, #f8f8f8 100%);
-  background-image:      -o-linear-gradient(top, #fff 0%, #f8f8f8 100%);
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#f4efd9));
-  background-image:         linear-gradient(to bottom, #fff 0%, #f4efd9 100%);
+  background-image: -webkit-linear-gradient(top, #F4EFD9 0%, #F4EFD9 100%);
+  background-image:      -o-linear-gradient(top, #F4EFD9 0%, #F4EFD9 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f4efd9), to(#f4efd9));
+  background-image:         linear-gradient(to bottom, #f4efd9 0%, #f4efd9 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff4efd9', GradientType=0);
   filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
   background-repeat: repeat-x;
