@@ -14,7 +14,7 @@
 a, a:hover, a:visited, a:active { font-weight:normal; /* make all links appears normal instead of bold */ }
 
 a { color: #466365 !important; /* color of links */ }
-a:hover { color: #9B28FA !important; /* color of links when hover mouse over */ }
+a:hover { color: #466365 !important; /* color of links when hover mouse over */ }
 a:active { color: #466365 !important; /* color of links when active */ }
 a:visited { color: #466365 !important; /* color of links after user has visited it */ }
 
