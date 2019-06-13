@@ -13,10 +13,10 @@
 
 a, a:hover, a:visited, a:active { font-weight:normal; /* make all links appears normal instead of bold */ }
 
-a { color: #B3BF91 !important; /* color of links */ }
-a:hover { color: #B3BF91 !important; /* color of links when hover mouse over */ }
-a:active { color: #B3BF91 !important; /* color of links when active */ }
-a:visited { color: #B3BF91 !important; /* color of links after user has visited it */ }
+a { color: #466365 !important; /* color of links */ }
+a:hover { color: #466365 !important; /* color of links when hover mouse over */ }
+a:active { color: #466365 !important; /* color of links when active */ }
+a:visited { color: #466365 !important; /* color of links after user has visited it */ }
 
 html {
   position: relative;
@@ -99,14 +99,14 @@ code {
 }
 
 #detail a {
-    color: #fff;
+    color: #D3E5AE;
     text-decoration: none;
 }
 
 
 a.back {
-    background-color: #f4efd9;
-    color: #f4efd9;
+    background-color: #D3E5AE;
+    color: #D3E5AE;
     margin-top: 150px;
     padding: 20px;
     width: 150px;
@@ -115,7 +115,7 @@ a.back {
 }
 
 a.back:hover {
-    background-color: #2D8674;
+    background-color: #D3E5AE;
 }
 
 div.back {
