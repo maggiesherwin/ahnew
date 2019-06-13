@@ -105,8 +105,8 @@ code {
 
 
 a.back {
-    background-color: #CDE3AC;
-    color: #CDE3AC;
+    background-color: #f4efd9;
+    color: #f4efd9;
     margin-top: 150px;
     padding: 20px;
     width: 150px;
@@ -340,9 +340,9 @@ div.back {
 .navbar-default {
   background-image: -webkit-linear-gradient(top, #fff 0%, #f8f8f8 100%);
   background-image:      -o-linear-gradient(top, #fff 0%, #f8f8f8 100%);
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#CDE3AC));
-  background-image:         linear-gradient(to bottom, #fff 0%, #CDE3AC 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffCDE3AC', GradientType=0);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#f4efd9));
+  background-image:         linear-gradient(to bottom, #fff 0%, #f4efd9 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff4efd9', GradientType=0);
   filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
   background-repeat: repeat-x;
   border-radius: 4px;
