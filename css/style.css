@@ -13,10 +13,10 @@
 
 a, a:hover, a:visited, a:active { font-weight:normal; /* make all links appears normal instead of bold */ }
 
-a { color: #CDE3AC !important; /* color of links */ }
-a:hover { color: #CDE3AC !important; /* color of links when hover mouse over */ }
-a:active { color: #CDE3AC !important; /* color of links when active */ }
-a:visited { color: #CDE3AC !important; /* color of links after user has visited it */ }
+a { color: #B3BF91 !important; /* color of links */ }
+a:hover { color: #B3BF91 !important; /* color of links when hover mouse over */ }
+a:active { color: #B3BF91 !important; /* color of links when active */ }
+a:visited { color: #B3BF91 !important; /* color of links after user has visited it */ }
 
 html {
   position: relative;
